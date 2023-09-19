@@ -1,3 +1,5 @@
+Hi there!
+
 # Machine Learning Specialization Coursera
 
 
